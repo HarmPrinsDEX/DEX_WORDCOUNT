@@ -1,0 +1,1 @@
+C:\users\harmp\env\scripts\deactivate
